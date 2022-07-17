@@ -10,7 +10,7 @@ Step 2:  ```mvn clean install```
 
 Step 3:  ```mvn spring-boot:run```
 
-More Info - https://www.knowledgefactory.net/2022/07/upload-download-and-delete-file-to-azure-blob-storage-with-spring-boot.html
+More Info - https://www.knowledgefactory.net/2022/07/azure-sql-database-spring-boot-build-rest-crud-apis.html
 
 
 
